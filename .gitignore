@@ -1,6 +1,7 @@
 # Rust
 Cargo.lock
 /target
+bybit/target/
 
 # IDE
 .idea/
